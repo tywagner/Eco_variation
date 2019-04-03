@@ -6,3 +6,4 @@ TP_full_model.R fits a hierarchical models with a horseshoe prior on regression 
 
 TP_unconditional_model.R fits a variance partitioning model for TP in inland lakes. This script uses the data file TP_unconditional.rds
 
+Climate_data_processing.R and lagos_data_processing.R are scripts showing how both the climate data and LAGOSNE data were processes prior to analysis.
